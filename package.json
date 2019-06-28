@@ -1,6 +1,6 @@
 {
   "name": "arb-truffle-provider",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Web3 Provider to plugin to truffle for Arbitrum deployment",
   "main": "index.js",
   "scripts": {
